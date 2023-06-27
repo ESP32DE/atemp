@@ -1,0 +1,4 @@
+[submodule "s3linux/esp-idf"]
+	path = s3linux/esp-idf
+	url = https://github.com/jcmvbkbc/esp-idf.git
+	branch = linux-5.0.1
